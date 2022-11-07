@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-app-famid/static/css/main.59809b56.css",
+    "main.js": "/react-app-famid/static/js/main.aef77fb0.js",
+    "static/js/787.b90a4b1d.chunk.js": "/react-app-famid/static/js/787.b90a4b1d.chunk.js",
+    "index.html": "/react-app-famid/index.html",
+    "main.59809b56.css.map": "/react-app-famid/static/css/main.59809b56.css.map",
+    "main.aef77fb0.js.map": "/react-app-famid/static/js/main.aef77fb0.js.map",
+    "787.b90a4b1d.chunk.js.map": "/react-app-famid/static/js/787.b90a4b1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59809b56.css",
+    "static/js/main.aef77fb0.js"
+  ]
+}
